@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jasonjiang9142/destroytheworld/blob/main/IMG_5995.jpg"" height="350"/>
+  <img src="https://github.com/jasonjiang9142/destroytheworld/blob/main/IMG_5995.jpg"" height="200"/>
 </p>
 <hr>
 
