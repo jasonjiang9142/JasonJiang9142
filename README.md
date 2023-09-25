@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    I'm Jason Jiang, a <b>sophmore</b> at <a href="https://www.bu.edu/cs/"> <b>Boston Univeristy</b></a>. <br>
+    I'm Jason Jiang, a <b>sophomore</b> at <a href="https://www.bu.edu/cs/"> <b>Boston Univeristy</b></a>. <br>
     An aspiring <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who has a passion for <b>Full Stack Development, Machine Learning, and Tech</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
 
 
