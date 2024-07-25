@@ -2,7 +2,7 @@
 <hr>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jason</h1>
-<h3 align="center"> CS @ Boston University</h3>
+<h3 align="center"> CS @ University of Virginia</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jasonjiang9142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    I'm Jason Jiang, a <b>sophomore</b> at <a href="https://www.bu.edu/cs/"> <b>Boston University</b></a>. <br>
+    I'm Jason Jiang, a <b>Junior</b> at <a href="https://www.bu.edu/cs/"> <b>University of Virginia</b></a>. <br>
     An aspiring <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who has a passion for <b>Full Stack Development, Machine Learning, and Tech</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
 
 
@@ -21,11 +21,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
 ✔ Pronouns: ***He/His***<br>
-✔ Hometown: ***Brooklyn, New York*** <br>
-✔ School: ***Boston University, Sophmore, CS Major*** <br>
-✔ Interest/Hobbies: ***Coding (ofc), Bodybuilding, Sushi, The Weeknd*** <br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ ***I’m looking for any Summer 2024 Internships Opportunities***<br>
+✔ Hometown: ***New York*** <br>
+✔ School: ***University of Virginia, Junior, CS Major*** <br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
