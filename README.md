@@ -2,7 +2,7 @@
 <hr>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jason</h1>
-<h3 align="center"> CS @ University of Virginia</h3>
+<h3 align="center"> CS Student</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jasonjiang9142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -22,7 +22,6 @@
 
 ✔ Pronouns: ***He/His***<br>
 ✔ Hometown: ***New York*** <br>
-✔ School: ***University of Virginia, Junior, CS Major*** <br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
