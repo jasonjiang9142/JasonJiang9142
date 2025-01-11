@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Java, databases, and the cloud!**
 
-- 👨‍💻 All of my projects are available at [jjason.me](jjason.me)
+- 👨‍💻 All of my projects are available at [[jjason.me](https://jjason.me/)]
 
 - 💬 Ask me about **fintech, cooking, physical fitness, movies shows to watch**
 
