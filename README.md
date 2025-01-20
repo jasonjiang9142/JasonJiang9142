@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jason Jiang</h1>
-<h3 align="center">My name is Jason and I am a Junior studying CS. I am passionate about software engineering, full-stack development, and fintech.</h3>
+<h1 align="center">Hi 👋, I'm Jason!</h1>
+<h3 align="center">I am passionate about software engineering, full-stack development, and fintech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonjiang9142&label=Profile%20views&color=0e75b6&style=flat" alt="jasonjiang9142" /> </p>
 
