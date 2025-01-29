@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonjiang9142&label=Profile%20views&color=0e75b6&style=flat" alt="jasonjiang9142" /> </p>
 
-- 🔭 I’m currently working on **exploring the intersections of technology with artificial intelligence through applying technology to promote public good and accessibility in digital services.**
-
-- 🌱 I’m currently learning **C++, Java, databases, and the cloud!**
+- 🌱 I’m currently learning **Go, Functional Programming, Java, databases, and the cloud!**
 
 - 👨‍💻 All of my projects are available at [[jjason.me](https://jjason.me/)]
 
-- 💬 Ask me about **fintech, cooking, physical fitness, movies shows to watch**
-
 - 📫 How to reach me **jasonjiang9142@gmail.com**
-
-- ⚡ Fun fact **I started college as a business major**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
